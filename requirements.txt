@@ -1,0 +1,9 @@
+numpy
+pillow
+customtkinter
+scipy
+scikit-image
+rasterio
+matplotlib
+numba
+pyproj
